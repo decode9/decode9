@@ -1,16 +1,41 @@
-### Hi there 👋
+### Decode9 - The Emperor :japanese_ogre:
 
-<!--
-**decode9/decode9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is Jorge Bastidas, and I am an experienced programmer :technologist: with experience since 2014. My focus is centered on process automation :robot: for companies and everyday activities. Furthermore, I have a great interest and passion for video games :video_game:, and I am currently venturing into game development. Throughout my career, I have worked in various companies :office:, especially startups and businesses that seek to optimize and automate their functions through technology.
 
-Here are some ideas to get you started:
+## Experience in Technologies and Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As an infrastructure leader, I have worked with the following technologies:
+
+- Ubuntu
+- Docker
+- Kubernetes
+- AWS EC2
+- AWS S3
+- Digital Ocean Droplets
+- CI/CD
+- Jenkins
+- Sonarqube
+- Github Actions
+- Github
+
+Furthermore, as a senior developer, I have experience in the following languages and technologies:
+
+- PHP
+- JavaScript
+- TypeScript
+- Python
+- Java
+- C#
+- React
+- React Native
+- GRPC
+- GraphQL
+- Rest API
+- Microservices
+- MySQL
+- SQL
+- MongoDB
+- NoSQL
+
+I am constantly learning and staying up-to-date with new technologies and trends in the programming field. I am always open to new challenges and opportunities to continue growing as a professional.
