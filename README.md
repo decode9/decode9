@@ -39,3 +39,8 @@ Furthermore, as a senior developer, I have experience in the following languages
 - NoSQL
 
 I am constantly learning and staying up-to-date with new technologies and trends in the programming field. I am always open to new challenges and opportunities to continue growing as a professional.
+
+<a href="https://github.com/decode9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=decode9&hide=contribs&count_private=true&show_icons=true&include_all_commits=true" height="170px"  width="480px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decode9&layout=compact" height="170px"/>
+</a>
