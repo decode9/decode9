@@ -17,3 +17,7 @@ I am constantly learning and staying up-to-date with new technologies and trends
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=decode9&hide=contribs&count_private=true&show_icons=true&include_all_commits=true" height="170px"  width="480px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decode9&layout=compact" height="170px"/>
 </a>
+
+<a href="https://github.com/decode9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=decode9&layout=compact" />
+</a>
