@@ -36,8 +36,9 @@
 
 | | |
 |---|---|
-| ⚔️ **[GitDventurer](https://github.com/the-empire-workspace/gitdventurer)** <br/> GitHub profiles as RPG adventurer cards — Cloudflare Workers + TypeScript. *The card above is live.* | 🛒 **[woocommerce-utils](https://github.com/decode9/woocommerce-utils)** <br/> Node.js API toolkit for WooCommerce integrations. |
-| ⚡ **[nextjs-boilerplate](https://github.com/decode9/nextjs-boilerplate)** <br/> Production-ready starter for Next.js 14 apps. | 🎮 **[cripter](https://github.com/decode9/cripter)** <br/> Unity game built at Global Game Jam Caracas. |
+| ⚔️ **[GitDventurer](https://github.com/the-empire-workspace/gitdventurer)** <br/> GitHub profiles as RPG adventurer cards — Cloudflare Workers + TypeScript. *The card above is live.* | 🤖 **[WABuddy](https://github.com/the-empire-workspace/WABuddy)** <br/> AI-powered WhatsApp automation — personalized bulk messaging from Excel data, built with Python + OpenAI. |
+| 💰 **[finami-app](https://github.com/the-empire-workspace/finami-app)** <br/> Personal finance app built with React Native. | 🎮 **[cripter](https://github.com/decode9/cripter)** <br/> Unity game built at Global Game Jam Caracas. |
+| 🛒 **[woocommerce-utils](https://github.com/decode9/woocommerce-utils)** <br/> Node.js API toolkit for WooCommerce integrations. | 🌐 **[decode9-website](https://github.com/decode9/decode9-website)** <br/> My portfolio, live at [decode9.codes](https://decode9.codes) — TypeScript. |
 
 ## Stack
 
@@ -62,7 +63,7 @@
 
 ### Proyectos destacados
 
-**⚔️ GitDventurer** — perfiles de GitHub como cartas de aventurero RPG (Cloudflare Workers + TypeScript); la carta de arriba es en vivo · **🛒 woocommerce-utils** — toolkit de API en Node.js para WooCommerce · **⚡ nextjs-boilerplate** — starter listo para producción con Next.js 14 · **🎮 cripter** — juego en Unity creado en la Global Game Jam de Caracas.
+**⚔️ GitDventurer** — perfiles de GitHub como cartas de aventurero RPG (Cloudflare Workers + TypeScript); la carta de arriba es en vivo · **🤖 WABuddy** — automatización de WhatsApp con IA: mensajería masiva personalizada desde Excel, con Python + OpenAI · **💰 finami-app** — app de finanzas personales en React Native · **🎮 cripter** — juego en Unity creado en la Global Game Jam de Caracas · **🛒 woocommerce-utils** — toolkit de API en Node.js para WooCommerce · **🌐 decode9-website** — mi portfolio, en vivo en decode9.codes.
 
 </details>
 
