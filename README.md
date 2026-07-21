@@ -1,5 +1,14 @@
 ### Decode9 - The Emperor :japanese_ogre:
 
+<img src="https://gitdventurer.theempire.workers.dev/card/decode9" alt="Carta de aventurero de decode9" />
+
+<details>
+  <summary><b>🔄 Voltear la carta — ver el Registro del Gremio</b></summary>
+  <br/>
+  <img src="https://gitdventurer.theempire.workers.dev/card/decode9/back" alt="Registro del gremio de decode9" />
+</details>
+
+
 ## About Me
 My name is Jorge Bastidas, and I am an experienced programmer :technologist: with experience since 2014. My focus is centered on process automation :robot: for companies and everyday activities. Furthermore, I have a great interest and passion for video games :video_game:, and I am currently venturing into game development. Throughout my career, I have worked in various companies :office:, especially startups and businesses that seek to optimize and automate their functions through technology.
 
