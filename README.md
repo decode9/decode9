@@ -1,23 +1,75 @@
-### Decode9 - The Emperor :japanese_ogre:
+<div align="center">
+
+# Jorge Bastidas · *The Emperor* 👹
+
+**Senior Full-Stack Engineer & Automation Architect**
+
+> *Code is the tool for changing the world.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-decode9-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/decode9/)
+[![Email](https://img.shields.io/badge/Email-jbastidas%40theempire.tech-8a7440?style=flat-square&logo=gmail&logoColor=white)](mailto:jbastidas@theempire.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-decode9.codes-1a1035?style=flat-square&logo=firefox&logoColor=white)](https://decode9.codes)
+
+<br/>
 
 <img src="https://gitdventurer.theempire.workers.dev/card/decode9" alt="Carta de aventurero de decode9" />
 
+</div>
+
 <details>
-  <summary><b>🔄 Voltear la carta — ver el Registro del Gremio</b></summary>
+  <summary><b>🔄 Flip the card — Guild Registry · Voltear la carta — Registro del Gremio</b></summary>
   <br/>
-  <img src="https://gitdventurer.theempire.workers.dev/card/decode9/back" alt="Registro del gremio de decode9" />
+  <div align="center">
+    <img src="https://gitdventurer.theempire.workers.dev/card/decode9/back" alt="Registro del gremio de decode9" />
+  </div>
 </details>
 
+<br/>
 
-## About Me
-My name is Jorge Bastidas, and I am an experienced programmer :technologist: with experience since 2014. My focus is centered on process automation :robot: for companies and everyday activities. Furthermore, I have a great interest and passion for video games :video_game:, and I am currently venturing into game development. Throughout my career, I have worked in various companies :office:, especially startups and businesses that seek to optimize and automate their functions through technology.
+## What I do
 
-## Experience in Technologies and Languages
+- **Process automation** for companies and startups — turning repetitive operations into systems that run themselves. Shipping software since **2014**.
+- **Infrastructure leadership** — Kubernetes, AWS and CI/CD pipelines that let teams deploy without fear.
+- **Full-stack product engineering** in TypeScript, React and Node — currently venturing into **game development**.
 
-As an infrastructure leader, I have worked with the following technologies:
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  CI/CD
+## Featured work
 
-Furthermore, as a senior developer, I have experience in the following languages and technologies:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  GRPC  Rest API  Microservices
+| | |
+|---|---|
+| ⚔️ **[GitDventurer](https://github.com/the-empire-workspace/gitdventurer)** <br/> GitHub profiles as RPG adventurer cards — Cloudflare Workers + TypeScript. *The card above is live.* | 🛒 **[woocommerce-utils](https://github.com/decode9/woocommerce-utils)** <br/> Node.js API toolkit for WooCommerce integrations. |
+| ⚡ **[nextjs-boilerplate](https://github.com/decode9/nextjs-boilerplate)** <br/> Production-ready starter for Next.js 14 apps. | 🎮 **[cripter](https://github.com/decode9/cripter)** <br/> Unity game built at Global Game Jam Caracas. |
 
-I am constantly learning and staying up-to-date with new technologies and trends in the programming field. I am always open to new challenges and opportunities to continue growing as a professional.
+## Stack
+
+| | |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) gRPC · REST · Microservices |
+| **Data** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?style=flat-square&logo=digitalocean&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) |
+
+<details>
+  <summary><b>🇪🇸 Versión en español</b></summary>
+
+<br/>
+
+### Qué hago
+
+- **Automatización de procesos** para empresas y startups — convierto operaciones repetitivas en sistemas que funcionan solos. Construyendo software desde **2014**.
+- **Liderazgo de infraestructura** — Kubernetes, AWS y pipelines de CI/CD que permiten a los equipos desplegar sin miedo.
+- **Ingeniería de producto full-stack** en TypeScript, React y Node — actualmente incursionando en el **desarrollo de videojuegos**.
+
+### Proyectos destacados
+
+**⚔️ GitDventurer** — perfiles de GitHub como cartas de aventurero RPG (Cloudflare Workers + TypeScript); la carta de arriba es en vivo · **🛒 woocommerce-utils** — toolkit de API en Node.js para WooCommerce · **⚡ nextjs-boilerplate** — starter listo para producción con Next.js 14 · **🎮 cripter** — juego en Unity creado en la Global Game Jam de Caracas.
+
+</details>
+
+<br/>
+
+<div align="center">
+
+*Building at [@the-empire-workspace](https://github.com/the-empire-workspace) 🏰*
+
+</div>
